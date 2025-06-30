@@ -1,0 +1,82 @@
+[2025-06-30 15:24:12,947] numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-06-30 15:24:19,256] tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+[2025-06-30 15:24:20,257] h5py._conv - DEBUG - Creating converter from 7 to 5
+[2025-06-30 15:24:20,257] h5py._conv - DEBUG - Creating converter from 5 to 7
+[2025-06-30 15:24:20,257] h5py._conv - DEBUG - Creating converter from 7 to 5
+[2025-06-30 15:24:20,257] h5py._conv - DEBUG - Creating converter from 5 to 7
+[2025-06-30 15:24:24,041] asyncio - DEBUG - Using proactor: IocpProactor
+[2025-06-30 15:24:35,829] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:24:35,830] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:35,831] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:35,831] root - INFO - Running the predict function
+[2025-06-30 15:24:35,832] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:35,832] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:35,846] h5py._conv - DEBUG - Creating converter from 3 to 5
+[2025-06-30 15:24:36,658] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:24:36,665] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:24:37,271] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:24:50,423] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:24:50,423] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:50,423] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:50,425] root - INFO - Running the predict function
+[2025-06-30 15:24:50,425] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:50,425] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:24:50,941] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:24:50,944] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:24:51,446] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:01,792] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:01,792] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:01,793] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:01,793] root - INFO - Running the predict function
+[2025-06-30 15:25:01,793] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:01,793] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:02,501] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:25:02,502] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:25:02,960] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:09,857] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:09,857] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:09,858] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:09,858] root - INFO - Running the predict function
+[2025-06-30 15:25:09,858] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:09,858] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:10,370] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:25:10,371] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:25:10,859] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:22,264] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:22,264] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:22,265] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:22,265] root - INFO - Running the predict function
+[2025-06-30 15:25:22,265] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:22,265] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:22,795] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:25:22,796] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:25:23,256] tensorflow - WARNING - 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000014FD2564820> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[2025-06-30 15:25:23,269] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:34,556] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:34,557] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:34,557] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:34,557] root - INFO - Running the predict function
+[2025-06-30 15:25:34,557] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:34,558] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:35,098] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:25:35,099] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:25:35,525] tensorflow - WARNING - 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000014FD3B51EE0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[2025-06-30 15:25:35,539] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:39,893] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:39,893] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:39,894] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:39,894] root - INFO - Running the predict function
+[2025-06-30 15:25:39,894] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:39,959] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:40,429] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:25:40,430] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:25:40,936] root - INFO - Exited the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:51,184] root - INFO - Entered the run_pipeline method of PredictionPipeline class
+[2025-06-30 15:25:51,184] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:51,185] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:51,185] root - INFO - Running the predict function
+[2025-06-30 15:25:51,185] root - INFO - Entered the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:51,185] root - INFO - Exited the get_model_from_gcloud method of PredictionPipeline class
+[2025-06-30 15:25:51,707] root - INFO - Entered into the concat_data_cleaning function
+[2025-06-30 15:25:51,709] root - INFO - Exited the concat_data_cleaning function
+[2025-06-30 15:25:52,138] root - INFO - Exited the run_pipeline method of PredictionPipeline class
